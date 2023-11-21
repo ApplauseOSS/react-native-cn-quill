@@ -23,6 +23,7 @@
     "release": "release-it",
     "example": "yarn --cwd example",
     "bootstrap": "yarn example && yarn",
+    "prepublish": "tsc",
     "prepare": "bob build"
   },
   "keywords": [
@@ -49,7 +50,7 @@
     "@react-native-community/eslint-config": "^2.0.0",
     "@release-it/conventional-changelog": "^2.0.0",
     "@types/jest": "^28.0.0",
-    "@types/react": "^16.9.19",
+    "@types/react": "17.0.14",
     "@types/react-native": "0.62.13",
     "commitlint": "^11.0.0",
     "eslint": "^7.2.0",
