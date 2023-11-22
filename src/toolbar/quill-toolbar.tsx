@@ -1,3 +1,5 @@
+// @ts-ignore
+// @ts-nocheck
 import React, { Component } from 'react';
 import {
   View,

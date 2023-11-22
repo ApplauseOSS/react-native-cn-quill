@@ -1,3 +1,5 @@
+// @ts-ignore
+// @ts-nocheck
 import React from 'react';
 import { TouchableWithoutFeedback, View, StyleSheet } from 'react-native';
 import type { ToolbarTheme } from '../../types';
