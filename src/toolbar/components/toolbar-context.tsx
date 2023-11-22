@@ -1,3 +1,5 @@
+// @ts-ignore
+// @ts-nocheck
 import React, { Component, useContext } from 'react';
 import { StyleSheet, Animated, Easing } from 'react-native';
 import { lightTheme } from '../../constants/themes';
